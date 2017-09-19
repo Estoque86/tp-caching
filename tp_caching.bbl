@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{AkaroaPrj}
+{Akaroa Project Website}.
+\newblock \url{https://akaroa.canterbury.ac.nz/akaroa/}.
+
+\bibitem{ccnSim}
+ccnsim website.
+\newblock \url{http://perso.telecom-paristech.fr/~drossi/ccnSim}.
+
+\bibitem{wang02jsac_hierarchical}
+H.~Che, Y.~Tung, and Z.~Wang.
+\newblock Hierarchical web caching systems: Modeling, design and experimental
+  results.
+\newblock {\em IEEE JSAC}, 20(7):1305--1314, 2002.
+
+\bibitem{garetto15infocom}
+M.~Garetto, E.~Leonardi, and S.~Traverso.
+\newblock Efficient analysis of caching strategies under dynamic content
+  popularity.
+\newblock In {\em Proc. of IEEE INFOCOM}, Apr. 2015.
+
+\bibitem{King:71}
+W.~F. King.
+\newblock Analysis of paging algorithms.
+\newblock In {\em Proc. of IFIP Congress}, Aug. 1971.
+
+\bibitem{martina14infocom}
+V.~Martina, M.~Garetto, and E.~Leonardi.
+\newblock A unified approach to the performance analysis of caching systems.
+\newblock In {\em Proc. of IEEE INFOCOM}, Apr. 2014.
+
+\bibitem{DraftPentikousis:16}
+K.~Pentikousis~et al.
+\newblock {Information-centric Networking: Evaluation and Security
+  Considerations}.
+\newblock RFC, Sep. 2016.
+
+\bibitem{tortelli-comnet:17}
+M.~Tortelli, D.~Rossi, and E.~Leonardi.
+\newblock A hybrid methodology for the performance evaluation of internet-scale
+  cache networks.
+\newblock {\em Elsevier Computer Networks, Special Issue on Softwarization and
+  Caching in NGN}, 2017.
+
+\end{thebibliography}
